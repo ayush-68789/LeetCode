@@ -14,3 +14,5 @@ class Solution {
         }
     }
 }
+
+// It gives O(n) complexity 
